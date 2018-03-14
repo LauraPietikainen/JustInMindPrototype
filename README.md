@@ -1,0 +1,2 @@
+# JustInMindPrototype
+School poject
